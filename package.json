@@ -1,7 +1,7 @@
 {
-  "name": "hexo-generator-index-pin-top",
-  "version": "0.2.2",
-  "description": "Index generator for Hexo.(pin top version)",
+  "name": "hexo-generator-index-pin-top-order",
+  "version": "0.0.1",
+  "description": "Index generator for Hexo.(base pin top version and add order)",
   "main": "index",
   "scripts": {
     "eslint": "eslint .",
@@ -15,7 +15,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "repository": "netcan/hexo-generator-index-pin-top",
+  "repository": "LDYang694/hexo-generator-index-pin-top-order",
   "homepage": "http://hexo.io/",
   "keywords": [
     "hexo",
@@ -23,7 +23,7 @@
     "index",
     "home"
   ],
-  "author": "Netcan <netcan1996@gmail.com> (http://netcan666.com)",
+  "author": "DongYang <lidongyang2001@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "chai": "^3.4.0",
